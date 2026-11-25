@@ -2,5 +2,5 @@ matplotlib
 networkx
 numpy
 pandas
-pulp[cbc]
+pulp[cbc]==3.3.2
 streamlit
